@@ -1,0 +1,17 @@
+.main-nav {
+  ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    margin-right: 10px;
+
+    a {
+      text-decoration: none;
+      padding: 10px;
+    }
+  }
+}
